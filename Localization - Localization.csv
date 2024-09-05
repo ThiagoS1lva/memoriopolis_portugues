@@ -125,14 +125,14 @@ CODEX_AGE_CYCLES_INTRO,O jogo é dividido em ciclos <sprite=42> que passam ao lo
 CODEX_AGE_CYCLES_TITLE,O limite de ciclos,La limite des cycles,
 CODEX_BUILD_ATTRACTION_00,"É mais provável que os residentes venham e construam suas casas em locais que possui uma <color=#10df8a> atração </color> <sprite=28> mais forte e positiva. Para orientar o desenvolvimento da sua cidade, certifique-se de criar <color=#10df8a>áreas atraentes</color> <sprite=28>. A atração do local é visível <b>a partir dos filtros</b> ou na <b>colocação de edifícios</b>.","Plus l’<color=#10df8a>attraction</color> <sprite=28> est forte et positive à un endroit donné, plus les habitants sont susceptibles de venir construire leur maison ici. Pour orienter le développement de votre ville, veillez à créer des zones <color=#10df8a>attractives</color> <sprite=28>.
 L'attraction des emplacements est visible <b>depuis les filtres</b> ou à la <b>pose de bâtiments</b>.",
-CODEX_BUILD_ATTRACTION_INTRO,"All buildings produce positive or negative <color=#10df8a>attraction</color> <sprite=28>:
-<sprite=18> City centers
-<sprite=18> Ramparts
-<sprite=18> Production buildings
-<sprite=18> Cultural buildings
-<sprite=18> Local buildings
-<sprite=18> Service buildings
-<sprite=18> Wonders","Tous les bâtiments produisent de l'<color=#10df8a>attraction</color> <sprite=28> positive ou négative :
+CODEX_BUILD_ATTRACTION_INTRO,"Todos os edifícios produzem <color=#10df8a>atração</color> <sprite=28> positiva ou negativa: 
+<sprite=18> Centros urbanos 
+<sprite=18> Muralhas 
+<sprite=18> Edifícios de produção 
+<sprite=18> Edifícios culturais
+<sprite=18> Edifícios locais 
+<sprite=18> Edifícios de serviços
+<sprite=18> Maravilhas","Tous les bâtiments produisent de l'<color=#10df8a>attraction</color> <sprite=28> positive ou négative :
 <sprite=18> Les centres-villes
 <sprite=18> Les remparts
 <sprite=18> Les bâtiments de production
@@ -140,70 +140,70 @@ CODEX_BUILD_ATTRACTION_INTRO,"All buildings produce positive or negative <color=
 <sprite=18> Les bâtiments de proximité
 <sprite=18> Les bâtiments de service
 <sprite=18> Les Merveilles",
-CODEX_BUILD_ATTRACTION_TITLE,The attraction,L'attraction,
-CODEX_BUILD_ATTRITION_ZONE_00,"The further a building is located in the attrition zone in relation to its generator, the more it will <b>inherit penalties</b> slowing down its development:
-<sprite=18> Decreased gain of <color=#4ba38a>satisfactions</color> <sprite=95>
-<sprite=18> Resource production penalty (<sprite=0>, <sprite=1>, <sprite=2>, <sprite=3>, <sprite=4>, <sprite=5>, <sprite=6>, <sprite=7>, <sprite=8>, <sprite=9>, <sprite=10>, <sprite=11>, <sprite=12>, <sprite=13>)
-<sprite=18> Penalty on construction, evolution and improvement time
-<sprite=18> Penalty on gaining <color=#10df8a>attraction</color> <sprite=28>","Plus un bâtiment se trouve loin dans la zone d’attrition par rapport à son générateur, plus il <b>héritera de malus</b> freinant son développement :
+CODEX_BUILD_ATTRACTION_TITLE,A Atração,L'attraction,
+CODEX_BUILD_ATTRITION_ZONE_00,"Quanto mais um edifício estiver localizado na zona de atrito em relação ao seu gerador, mais ele <b>herdará penalidades</b> que retardam seu desenvolvimento: 
+<sprite=18> Diminuição do ganho de <color=#4ba38a>satisfações</color> <sprite=95> 
+<sprite=18> Penalidade na produção de recursos (<sprite=0>, <sprite=1>, <sprite=2>, <sprite=3>, <sprite=4>, <sprite=5>, <sprite=6>, <sprite=7>, <sprite=8>, <sprite=9>, <sprite=10>, <sprite=11>, <sprite=12>, <sprite=13>) 
+<sprite=18> Penalidade no tempo de construção, evolução e melhoria 
+<sprite=18> Penalidade no ganho de <color=#10df8a>atração</color> <sprite=28>","Plus un bâtiment se trouve loin dans la zone d’attrition par rapport à son générateur, plus il <b>héritera de malus</b> freinant son développement :
 <sprite=18> Baisse du gain de <color=#4ba38a>satisfactions</color> <sprite=95>
 <sprite=18> Pénalité de production de ressources (<sprite=0>, <sprite=1>, <sprite=2>, <sprite=3>, <sprite=4>, <sprite=5>, <sprite=6>, <sprite=7>, <sprite=8>, <sprite=9>, <sprite=10>, <sprite=11>, <sprite=12>, <sprite=13>)
 <sprite=18> Pénalité sur le temps de construction, d'évolution et d'amélioration
 <sprite=18> Pénalité sur le gain d'<color=#10df8a>attraction</color> <sprite=28>",
-CODEX_BUILD_ATTRITION_ZONE_01,"There are certain elements which make it possible to <b>reduce these effects</b>, which can be:
-<sprite=18> A destiny
-<sprite=18> A <color=#03c2ec>know-how</color> <sprite=25>
-<sprite=18> A proximity building...","Il existe certains éléments qui permettent d'<b>amoindrir ces effets</b>, qui peuvent être :
+CODEX_BUILD_ATTRITION_ZONE_01,"Existem certos elementos que permitem <b>reduzir esses efeitos</b>, que podem ser: 
+<sprite=18> Um destino 
+<sprite=18> Um <color=#03c2ec>conhecimento</color> <sprite=25> 
+<sprite=18> Um edifício de proximidade...","Il existe certains éléments qui permettent d'<b>amoindrir ces effets</b>, qui peuvent être :
 <sprite=18> Une destinée
 <sprite=18> Un <color=#03c2ec>savoir-faire</color> <sprite=25>
 <sprite=18> Un bâtiment de proximité...",
-CODEX_BUILD_ATTRITION_ZONE_INTRO,"From the Middle Ages <sprite=31>, a new construction zone around the city called <b>attrition zone</b> appears. It is located <b>after the safety zone</b> and is tinted blue .
-All buildings providing a security zone provide an attrition zone:
-<sprite=18> City centers
-<sprite=18> Surveyors' cabin
-<sprite=18> Wonders","À partir du Moyen Âge <sprite=31>, une nouvelle zone de construction autour de la ville appelée <b>zone d’attrition</b> apparaît. Elle se situe <b>après la zone de sûreté</b> et est teintée de bleu.
+CODEX_BUILD_ATTRITION_ZONE_INTRO,"A partir da Idade Média <sprite=31>, uma nova zona de construção ao redor da cidade chamada <b>zona de atrito</b> aparece. Ela está localizada <b>após a zona de segurança</b> e é tingida de azul.
+Todos os edifícios que fornecem uma zona de segurança também fornecem uma zona de atrito:
+<sprite=18> Centros urbanos
+<sprite=18> Cabana dos agrimensores
+<sprite=18> Maravilhas","À partir du Moyen Âge <sprite=31>, une nouvelle zone de construction autour de la ville appelée <b>zone d’attrition</b> apparaît. Elle se situe <b>après la zone de sûreté</b> et est teintée de bleu.
 Tous les bâtiments fournissant une zone de sûreté fournissent une zone d'attrition :
 <sprite=18> Centres-villes
 <sprite=18> Cabanes d'arpenteurs
 <sprite=18> Merveilles",
-CODEX_BUILD_ATTRITION_ZONE_TITLE,The attrition zone,La zone d'attrition,
-CODEX_BUILD_MENU_00,"There are different environments that can hinder the development of the city. Some buildings even require certain specific environments to be built, for example on the waterfront.
-In the event that a building cannot be placed on the ground, the reasons will be explained to you each time.","Il existe différents environnements qui peuvent entraver le développement de la ville. Certains bâtiments exigent même certains environnements spécifiques pour être construits, par exemple au bord de l’eau.
+CODEX_BUILD_ATTRITION_ZONE_TITLE,A zona de atrito,La zone d'attrition,
+CODEX_BUILD_MENU_00,"Existem diferentes ambientes que podem dificultar o desenvolvimento da cidade. Alguns edifícios até exigem certos ambientes específicos para serem construídos, por exemplo, à beira-mar.
+No caso de um edifício não poder ser colocado no solo, os motivos serão explicados a você a cada vez.","Il existe différents environnements qui peuvent entraver le développement de la ville. Certains bâtiments exigent même certains environnements spécifiques pour être construits, par exemple au bord de l’eau.
 Dans le cas où un bâtiment ne pourra pas être placé au sol, les raisons vous seront explicitées à chaque fois.",
-CODEX_BUILD_MENU_INTRO,"The build menu is located at the <b>bottom center</b> of your screen. Click on the tab for the type of building you want to build, then on the map of the desired building. If you have enough resources, your mouse cursor will then transform into an outline of the building: <b>place the building on the ground, where you want it</b>.","Le menu de construction se trouve au <b>centre en bas</b> de votre écran. Cliquez sur l’onglet du type de bâtiment que vous souhaitez construire, puis sur la carte du bâtiment souhaité. Si vous avez assez de ressources, le curseur de votre souris se transforme alors en ébauche du bâtiment : <b>placez le bâtiment au sol, à l’endroit où vous le souhaitez</b>.",
-CODEX_BUILD_MENU_TITLE,The build menu,Le menu de construction,
-CODEX_BUILD_ROADS_00,It is thanks to the different roads layouts that the game positions the ramparts <sprite=85> or the axes.,C'est grâce aux différents tracés que le jeu positionne les remparts <sprite=85> ou des axes.,
-CODEX_BUILD_ROADS_HOUSES_00,"Homes may suffer <b>damage and demolition</b>, following specific incidents (<sprite=44>, <sprite=45>, <sprite=48>, <sprite=49>) or events. They cannot <b>be repaired manually</b>, but other <color=#ffffdf>citizens</color> <sprite=81> could rebuild them and live there if the place is <color=#10df8a>attractive</color> <sprite=28>.","Les habitations peuvent subir des <b>dégradations et des démolitions</b>, suite à des incidents (<sprite=44>, <sprite=45>, <sprite=48>, <sprite=49>) ou à des évènements spécifiques. Elles ne pourront <b>pas être réparées manuellement</b>, mais d'autres <color=#ffffdf>citoyens</color> <sprite=81> pourraient les reconstruire et y habiter si l'endroit est <color=#10df8a>attractif</color> <sprite=28>.",
-CODEX_BUILD_ROADS_HOUSES_INTRO,"Houses accommodate a certain number of <color=#ffffdf>citizens</color> <sprite=81> by default, depending on <color=#9aa7ff>urban planning rules</color> <sprite=24>. These Rules can be modified using the <color=#9aa7ff>Master Builder Office</color> <sprite=24> available in the Middle Ages <sprite=31>.
-They appear as soon as an <b>attractive <color=#10df8a>location</color> <sprite=28> is available</b>.
+CODEX_BUILD_MENU_INTRO,"O menu de construção está localizado no <b>centro inferior</b> da sua tela. Clique na aba do tipo de edifício que você deseja construir e, em seguida, no mapa do edifício desejado. Se você tiver recursos suficientes, o cursor do seu mouse se transformará em um contorno do edifício: <b>coloque o edifício no solo, onde você desejar</b>.","Le menu de construction se trouve au <b>centre en bas</b> de votre écran. Cliquez sur l’onglet du type de bâtiment que vous souhaitez construire, puis sur la carte du bâtiment souhaité. Si vous avez assez de ressources, le curseur de votre souris se transforme alors en ébauche du bâtiment : <b>placez le bâtiment au sol, à l’endroit où vous le souhaitez</b>.",
+CODEX_BUILD_MENU_TITLE,O menu de construção,Le menu de construction,
+CODEX_BUILD_ROADS_00,"É graças aos diferentes traçados que o jogo posiciona as muralhas <sprite=85> ou os eixos.",C'est grâce aux différents tracés que le jeu positionne les remparts <sprite=85> ou des axes.,
+CODEX_BUILD_ROADS_HOUSES_00,"As habitações podem sofrer <b>danos e demolições</b>, devido a incidentes (<sprite=44>, <sprite=45>, <sprite=48>, <sprite=49>) ou eventos específicos. Elas não podem <b>ser reparadas manualmente</b>, mas outros <color=#ffffdf>cidadãos</color> <sprite=81> podem reconstruí-las e morar lá se o local for <color=#10df8a>atrativo</color> <sprite=28>.","Les habitations peuvent subir des <b>dégradations et des démolitions</b>, suite à des incidents (<sprite=44>, <sprite=45>, <sprite=48>, <sprite=49>) ou à des évènements spécifiques. Elles ne pourront <b>pas être réparées manuellement</b>, mais d'autres <color=#ffffdf>citoyens</color> <sprite=81> pourraient les reconstruire et y habiter si l'endroit est <color=#10df8a>attractif</color> <sprite=28>.",
+CODEX_BUILD_ROADS_HOUSES_INTRO,"As casas acomodam um certo número de <color=#ffffdf>cidadãos</color> <sprite=81> por padrão, dependendo das <color=#9aa7ff>regras de planejamento urbano</color> <sprite=24>. Essas regras podem ser modificadas usando o <color=#9aa7ff>Escritório do Mestre de Obras</color> <sprite=24> disponível na Idade Média <sprite=31>.
+Elas aparecem assim que uma <b>localização <color=#10df8a>atrativa</color> <sprite=28> estiver disponível</b>.
 
-A group of homes is called a district and can adopt a culture as well as accommodate a <color=#e4cd9b>faction</color> <sprite=22>.","Les habitations accueillent un certain nombre de <color=#ffffdf>citoyens</color> <sprite=81> par défaut, dépendant des <color=#9aa7ff>règles d'urbanisme</color> <sprite=24>. Ces règles peuvent être modifiées grâce à l'<color=#9aa7ff>Office du Maître d'Œuvre</color> <sprite=24> disponible au Moyen Âge <sprite=31>.
+Um grupo de casas é chamado de distrito e pode adotar uma cultura, bem como acomodar uma <color=#e4cd9b>facção</color> <sprite=22>.","Les habitations accueillent un certain nombre de <color=#ffffdf>citoyens</color> <sprite=81> par défaut, dépendant des <color=#9aa7ff>règles d'urbanisme</color> <sprite=24>. Ces règles peuvent être modifiées grâce à l'<color=#9aa7ff>Office du Maître d'Œuvre</color> <sprite=24> disponible au Moyen Âge <sprite=31>.
 Elles apparaissent dès qu'un <b>endroit <color=#10df8a>attractif</color> <sprite=28> est disponible</b>.
 
 Un regroupement d'habitations est appelé quartier et peut adopter une culture ainsi qu'accueillir une <color=#e4cd9b>faction</color> <sprite=22>.",
-CODEX_BUILD_ROADS_HOUSES_TITLE,Houses,Les habitations,
-CODEX_BUILD_ROADS_INTRO,"The roads are built <b>automatically</b> to provide an organic visual and based on realistic <color=#9aa7ff>urban planning rules</color> <sprite=24>:
-Each building has several <b>road entrances and exits</b> that provide connections between districts, the main road and others. In addition, each district has its own paths, themselves connected to each other or to adjacent roads.
+CODEX_BUILD_ROADS_HOUSES_TITLE,Casas,Les habitations,
+CODEX_BUILD_ROADS_INTRO,"As estradas são construídas <b>automaticamente</b> para proporcionar uma aparência orgânica e baseadas nas <color=#9aa7ff>regras de planejamento urbano</color> <sprite=24> realistas:
+Cada edifício possui várias <b>entradas e saídas de estradas</b> que permitem conexões entre distritos, a estrada principal e outras. Além disso, cada distrito tem seus próprios caminhos, que estão conectados entre si ou com as estradas adjacentes.
 
-It is <b>impossible to construct</b> buildings on roads, and they cannot <b>be destroyed</b>.","Les routes sont construites <b>automatiquement</b> pour apporter un visuel organique et basé sur des <color=#9aa7ff>règles d'urbanisme</color> <sprite=24> réalistes :
+É <b>impossível construir</b> edifícios sobre as estradas, e elas não podem <b>ser destruídas</b>.","Les routes sont construites <b>automatiquement</b> pour apporter un visuel organique et basé sur des <color=#9aa7ff>règles d'urbanisme</color> <sprite=24> réalistes :
 Chaque bâtiment a plusieurs <b>entrées et sorties de routes</b> qui permettent des connexions entre les quartiers, la route principale et les autres. De plus, chaque quartier possède ses propres chemins, eux-mêmes connectés entre eux ou avec les routes adjacentes.
 
 Il est <b>impossible de construire</b> des bâtiments sur les routes, et elles ne peuvent <b>pas être détruites</b>. ",
-CODEX_BUILD_ROADS_TITLE,Roads,Les routes,
-CODEX_BUILD_SAFE_ZONE_00,"Increasing the size of the security zone can be done by increasing the <b>level of the city center</b> or by constructing certain specific buildings on the outskirts of this limit, such as the <b>Surveyors' cabin</b> and the <b>Wonders</b>.
-Building another city center also increases this area.","Augmenter la taille de la zone de sûreté peut se faire en augmentant le <b>niveau du centre-ville</b> ou en construisant certains bâtiments spécifiques en périphérie de cette limite, comme les <b>Cabanes d’arpenteurs</b> et les <b>Merveilles</b>.
+CODEX_BUILD_ROADS_TITLE,Estradas,Les routes,
+CODEX_BUILD_SAFE_ZONE_00,"Aumentar o tamanho da zona de segurança pode ser feito aumentando o <b>nível do centro urbano</b> ou construindo certos edifícios específicos nos arredores desse limite, como as <b>Cabanas de agrimensores</b> e as <b>Maravilhas</b>.
+Construir outro centro urbano também aumenta essa área.","Augmenter la taille de la zone de sûreté peut se faire en augmentant le <b>niveau du centre-ville</b> ou en construisant certains bâtiments spécifiques en périphérie de cette limite, comme les <b>Cabanes d’arpenteurs</b> et les <b>Merveilles</b>.
 Construire un autre centre-ville permet également d'augmenter cette zone.",
-CODEX_BUILD_SAFE_ZONE_INTRO,"Your city is surrounded by an area outside of which it is <b>prohibited to build</b>, with the exception of a few buildings. ","Votre ville est entourée d’une zone en dehors de laquelle il est <b>interdit de construire</b>, exception faite de quelques bâtiments. ",
-CODEX_BUILD_SAFE_ZONE_TITLE,Safety zone,La zone de sûreté,
-CODEX_BUILDINGS_AMELIORATION_00,"Here is the process:
-<sprite=18> Look for the upgrade in the <color=#e4cd9b>Building Tree</color> <sprite=26>
-<sprite=18> Click on the building in your city that you want to upgrade
-<sprite=18> Click on the <b>vertical Upgrade banner</b> on the <b>right of the information panel</b>
-<sprite=18> Then click on the Upgrade button
+CODEX_BUILD_SAFE_ZONE_INTRO,"Sua cidade está cercada por uma área externa da qual é <b>proibido construir</b>, com exceção de alguns edifícios.","Votre ville est entourée d’une zone en dehors de laquelle il est <b>interdit de construire</b>, exception faite de quelques bâtiments. ",
+CODEX_BUILD_SAFE_ZONE_TITLE,Zona de segurança,La zone de sûreté,
+CODEX_BUILDINGS_AMELIORATION_00,"Aqui está o processo:
+<sprite=18> Procure pela melhoria na <color=#e4cd9b>Árvore de Edifícios</color> <sprite=26>
+<sprite=18> Clique no edifício em sua cidade que você deseja melhorar
+<sprite=18> Clique no <b>banner vertical de Melhoria</b> no <b>lado direito do painel de informações</b>
+<sprite=18> Em seguida, clique no botão Melhorar
 
-Note that the <b>vertical banner is green</b> if you have the prerequisites for the upgrade and <b>red</b> if you do not meet them.
+Observe que o <b>banner vertical é verde</b> se você tiver os pré-requisitos para a melhoria e <b>vermelho</b> se você não os atender.
 
-<b>City centers</b> can be upgraded without having to search for higher levels.","Voici le procédé :
+<b>Centros urbanos</b> podem ser melhorados sem precisar procurar por níveis superiores.","Voici le procédé :
 <sprite=18> Recherchez l’amélioration dans l’<color=#e4cd9b>Arbre des Bâtiments</color> <sprite=26>
 <sprite=18> Cliquez sur le bâtiment de votre ville que vous souhaitez améliorer
 <sprite=18> Cliquez sur le <b>bandeau vertical Amélioration</b> sur la <b>droite du panneau d’information</b>
@@ -212,48 +212,48 @@ Note that the <b>vertical banner is green</b> if you have the prerequisites for 
 Notez que le <b>bandeau vertical est vert</b> si vous avez les prérequis pour l’amélioration et <b>rouge</b> si vous ne les remplissez pas.
 
 Les <b>centres-villes</b> peuvent être améliorés sans avoir à rechercher les niveaux supérieurs.",
-CODEX_BUILDINGS_AMELIORATION_INTRO,<b>Production and proximity buildings</b> can be upgraded on several levels in order to increase their efficiency.,Les bâtiments de <b>production et de proximité</b> peuvent être améliorés sur plusieurs niveaux afin d’en augmenter l’efficacité.,
-CODEX_BUILDINGS_AMELIORATION_TITLE,Upgrade,Les améliorations,
-CODEX_BUILDINGS_EVOLUTION_00,"To evolve a <b>cultural building</b>, you must have built an evolving building in a previous age and researched evolution in your current age. 
-<sprite=18> Click on the building you want to evolve
-<sprite=18> Click on the <b>Evolution vertical banner</b> on the right of the information panel
-<sprite=18> Click on the Evolution button if you meet the prerequisites
+CODEX_BUILDINGS_AMELIORATION_INTRO,Os <b>edifícios de produção e de proximidade</b> podem ser aprimorados em vários níveis para aumentar sua eficiência.,Les bâtiments de <b>production et de proximité</b> peuvent être améliorés sur plusieurs niveaux afin d’en augmenter l’efficacité.,
+CODEX_BUILDINGS_AMELIORATION_TITLE,Melhorias,Les améliorations,
+CODEX_BUILDINGS_EVOLUTION_00,"Para evoluir um <b>edifício cultural</b>, você deve ter construído um edifício em evolução em uma era anterior e pesquisado a evolução em sua era atual.
+<sprite=18> Clique no edifício que você deseja evoluir
+<sprite=18> Clique no <b>banner vertical de Evolução</b> no lado direito do painel de informações
+<sprite=18> Clique no botão Evoluir se você atender aos pré-requisitos
 
-Note that the <b>vertical banner is green</b> if you have the prerequisites for the improvement and <b>red</b> if you do not meet them.","Pour faire évoluer un <b>bâtiment culturel</b>, il vous faut avoir construit un bâtiment évolutif dans un âge précédent et recherché l’évolution dans votre âge actuel. 
+Observe que o <b>banner vertical é verde</b> se você tiver os pré-requisitos para a melhoria e <b>vermelho</b> se você não os atender.","Pour faire évoluer un <b>bâtiment culturel</b>, il vous faut avoir construit un bâtiment évolutif dans un âge précédent et recherché l’évolution dans votre âge actuel. 
 <sprite=18> Cliquez sur le bâtiment que vous voulez évoluer
 <sprite=18> Cliquez sur le <b>bandeau vertical Évolution</b> sur la droite du panneau d’information
 <sprite=18> Cliquez sur le bouton Évolution si vous possédez les prérequis
 
 Notez que le <b>bandeau vertical est vert</b> si vous avez les prérequis pour l’amélioration et <b>rouge</b> si vous ne les remplissez pas.",
-CODEX_BUILDINGS_EVOLUTION_01,The possible or not evolution of cultural buildings is visible from the <color=#e4cd9b>Building Tree</color> <sprite=26>.,L’évolution possible ou non des bâtiments culturels est visible depuis l’<color=#e4cd9b>Arbre des Bâtiments</color> <sprite=26>.,
-CODEX_BUILDINGS_EVOLUTION_INTRO,"Certain <b>cultural buildings</b> from previous ages can evolve into buildings of the current age and benefit from numerous advantages: when this happens, you have <b>the choice among several randomly drawn bonuses</b>.","Certains <b>bâtiments culturels</b> d’âges précédents peuvent évoluer en bâtiments d’âge actuel et profiter de nombreux avantages : lorsque cela se produit, vous avez <b>le choix parmi plusieurs bonus tirés aléatoirement</b>.",
-CODEX_BUILDINGS_EVOLUTION_SUMMARY,"Some <b>cultural buildings</b> can evolve, mixing several buildings simultaneously. This action offers several significant advantages in terms of culture, attraction and other bonuses of the player's choice.","Certains <b>bâtiments culturels</b> peuvent évoluer, mélangeant plusieurs bâtiments simultanément. Cette action offre plusieurs avantages non négligeables en termes de culture, d'attraction et d'autres bonus au choix du joueur.",
-CODEX_BUILDINGS_EVOLUTION_TITLE,Evolution,L'évolution,
-CODEX_BUILDINGS_SPECIALIZATION_00,"The building can then be specialized, proceed in the same way as the upgrade: 
-<sprite=18> Search the <color=#e4cd9b>Building Tree</color> <sprite=26>
-<sprite=18> Click on the building in your city that you want to specialise
-<sprite=18> Click on the <b>vertical Upgrade banner</b> on the <b>right of the information panel</b>
+CODEX_BUILDINGS_EVOLUTION_01,"A evolução possível ou não dos edifícios culturais é visível a partir da <color=#e4cd9b>Árvore de Edifícios</color> <sprite=26>.",L’évolution possible ou non des bâtiments culturels est visible depuis l’<color=#e4cd9b>Arbre des Bâtiments</color> <sprite=26>.,
+CODEX_BUILDINGS_EVOLUTION_INTRO,"Certos <b>edifícios culturais</b> de eras anteriores podem evoluir para edifícios da era atual e se beneficiar de várias vantagens: quando isso acontece, você tem <b>a escolha entre vários bônus sorteados aleatoriamente</b>.","Certains <b>bâtiments culturels</b> d’âges précédents peuvent évoluer en bâtiments d’âge actuel et profiter de nombreux avantages : lorsque cela se produit, vous avez <b>le choix parmi plusieurs bonus tirés aléatoirement</b>.",
+CODEX_BUILDINGS_EVOLUTION_SUMMARY,"Alguns <b>edifícios culturais</b> podem evoluir, combinando vários edifícios simultaneamente. Essa ação oferece várias vantagens significativas em termos de cultura, atração e outros bônus à escolha do jogador.","Certains <b>bâtiments culturels</b> peuvent évoluer, mélangeant plusieurs bâtiments simultanément. Cette action offre plusieurs avantages non négligeables en termes de culture, d'attraction et d'autres bonus au choix du joueur.",
+CODEX_BUILDINGS_EVOLUTION_TITLE,Evolução,L'évolution,
+CODEX_BUILDINGS_SPECIALIZATION_00,"O edifício pode então ser especializado; prossiga da mesma forma que para a melhoria:
+<sprite=18> Procure na <color=#e4cd9b>Árvore de Edifícios</color> <sprite=26>
+<sprite=18> Clique no edifício em sua cidade que você deseja especializar
+<sprite=18> Clique no <b>banner vertical de Melhoria</b> no <b>lado direito do painel de informações</b>
 
-Note that the <b>vertical banner is green</b> if you have the prerequisites for the improvement and <b>red</b> if you do not meet them.","Le bâtiment peut alors être transformé, procédez de la même façon que l’amélioration : 
+Observe que o <b>banner vertical é verde</b> se você tiver os pré-requisitos para a melhoria e <b>vermelho</b> se você não os atender.","Le bâtiment peut alors être transformé, procédez de la même façon que l’amélioration : 
 <sprite=18> Recherchez dans l’<color=#e4cd9b>Arbre des Bâtiments</color> <sprite=26>
 <sprite=18> Cliquez sur le bâtiment de votre ville que vous souhaitez améliorer
 <sprite=18> Cliquez sur le <b>bandeau vertical Amélioration</b> sur la <b>droite du panneau d’information</b>
 
 Notez que le <b>bandeau vertical est vert</b> si vous avez les prérequis pour l’amélioration et <b>rouge</b> si vous ne les remplissez pas.",
-CODEX_BUILDINGS_SPECIALIZATION_01,"When a building has several possible specializations, you can only research <b>one for your entire game</b>.","Lorsqu’un bâtiment possède plusieurs spécialisations possibles, vous ne pouvez en rechercher <b>qu’une seule pour l’ensemble de votre partie</b>.",
-CODEX_BUILDINGS_SPECIALIZATION_INTRO,"Some upgradeable buildings can then be <b>specialized</b> once upgrade level 4 is reached, allowing them to gain <b>additional functionality</b> or great efficiency in a certain aspect.","Certains bâtiments améliorables peuvent être ensuite <b>spécialisés</b> une fois le niveau 4 d’amélioration atteint, leur permettant de gagner <b>une fonctionnalité supplémentaire</b> ou une grande efficacité dans un certain aspect.",
-CODEX_BUILDINGS_SPECIALIZATION_TITLE,Specialisation,La spécialisation,
-CODEX_CATEGORY_AGE_TITLE,Age change,Le changement d'âge,
-CODEX_CATEGORY_AM_SP_EV_TITLE,"Upgrade, specialization and evolution","Amélioration, spécialisation et évolution",
-CODEX_CATEGORY_AMELIORATION_TITLE,Building modifications,Les modifications des bâtiments,
-CODEX_CATEGORY_BUILD_TITLE,Construction of buildings,La construction de bâtiments,
-CODEX_CATEGORY_BUILDINGS_TYPE_TITLE,Building types,Les types de bâtiments,
-CODEX_CATEGORY_CULTURES_TITLE,Six cultures,Les six cultures,
-CODEX_CATEGORY_DESTRUCTION_TITLE,Destruction of buildings,La destruction des bâtiments,
-CODEX_CATEGORY_DISTRICT_TITLE,Neighborhood life,La vie des quartiers,
-CODEX_CATEGORY_RESEARCH_TITLE,Research for buildings,La recherche de bâtiments,
-CODEX_CATEGORY_RESOURCES_TITLE,Resources,Les ressources,
-CODEX_CATEGORY_SCORE,Final Score,Score final,
+CODEX_BUILDINGS_SPECIALIZATION_01,"Quando um edifício tem várias especializações possíveis, você pode pesquisar <b>apenas uma para toda a sua partida</b>.","Lorsqu’un bâtiment possède plusieurs spécialisations possibles, vous ne pouvez en rechercher <b>qu’une seule pour l’ensemble de votre partie</b>.",
+CODEX_BUILDINGS_SPECIALIZATION_INTRO,"Alguns edifícios aprimoráveis podem então ser <b>especializados</b> uma vez que o nível 4 de aprimoramento seja alcançado, permitindo-lhes obter <b>uma funcionalidade adicional</b> ou grande eficiência em um determinado aspecto.","Certains bâtiments améliorables peuvent être ensuite <b>spécialisés</b> une fois le niveau 4 d’amélioration atteint, leur permettant de gagner <b>une fonctionnalité supplémentaire</b> ou une grande efficacité dans un certain aspect.",
+CODEX_BUILDINGS_SPECIALIZATION_TITLE,Especialização,La spécialisation,
+CODEX_CATEGORY_AGE_TITLE,Mudança de era,Le changement d'âge,
+CODEX_CATEGORY_AM_SP_EV_TITLE,"Melhoria, especialização e evolução","Amélioration, spécialisation et évolution",
+CODEX_CATEGORY_AMELIORATION_TITLE,Modificações dos edifícios,Les modifications des bâtiments,
+CODEX_CATEGORY_BUILD_TITLE,Construção de edifícios,La construction de bâtiments,
+CODEX_CATEGORY_BUILDINGS_TYPE_TITLE,Tipos de edifícios,Les types de bâtiments,
+CODEX_CATEGORY_CULTURES_TITLE,As seis culturas,Les six cultures,
+CODEX_CATEGORY_DESTRUCTION_TITLE,Destruição de edifícios,La destruction des bâtiments,
+CODEX_CATEGORY_DISTRICT_TITLE,Vida dos distritos,La vie des quartiers,
+CODEX_CATEGORY_RESEARCH_TITLE,Pesquisa de edifícios,La recherche de bâtiments,
+CODEX_CATEGORY_RESOURCES_TITLE,Recursos,Les ressources,
+CODEX_CATEGORY_SCORE,Pontuação final,Score final,
 CODEX_CATEGORY_TUTORIAL,Tutorial,Tutoriel,
 CODEX_CULTURE_COMMERCIAL_00,"The <color=#ead93b>Trade</color> <sprite=74> culture focuses primarily on trade routes. Its first Service building is the <color=#ead93b>Macellum</color> <sprite=23> during Antiquity <sprite=30>.
 
