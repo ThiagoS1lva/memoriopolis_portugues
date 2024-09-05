@@ -123,17 +123,16 @@ CODEX_AGE_CYCLES_00,"Cada era possui um <b>número limite</b> de ciclos <sprite=
 Si vous remplissez tous les <b>objectifs d’âge</b>, vous pouvez <b>choisir manuellement</b> de passer à l’âge suivant : les cycles <sprite=42> que vous aurez économisés seront alors <b>reportés</b> et ajouté à la limite de cycles <sprite=42> de l’âge suivant.",
 CODEX_AGE_CYCLES_INTRO,O jogo é dividido em ciclos <sprite=42> que passam ao longo do tempo: um ciclo dura 4 segundos.,Le jeu se découpe en cycles <sprite=42> qui passent au fil du temps : un cycle dure 4 secondes.,
 CODEX_AGE_CYCLES_TITLE,O limite de ciclos,La limite des cycles,
-CODEX_BUILD_ATTRACTION_00,"The stronger and more positive the <color=#10df8a>attraction</color> <sprite=28> is in a given location, the more likely residents are to come and build their homes here. To guide the development of your city, make sure to create attractive <color=#10df8a>areas</color> <sprite=28>.
-Location attraction is visible <b>from filters</b> or at <b>building placement</b>.","Plus l’<color=#10df8a>attraction</color> <sprite=28> est forte et positive à un endroit donné, plus les habitants sont susceptibles de venir construire leur maison ici. Pour orienter le développement de votre ville, veillez à créer des zones <color=#10df8a>attractives</color> <sprite=28>.
+CODEX_BUILD_ATTRACTION_00,"A <color=#10df8a> atração </color> <sprite=28> mais forte e positiva em um determinado local, mais provável é que os residentes venham e construam suas casas aqui. Para orientar o desenvolvimento da sua cidade, certifique-se de criar <color=#10df8a>áreas atraentes</color> <sprite=28>. A atração do local é visível <b>a partir dos filtros</b> ou na <b>colocação de edifícios</b>.","Plus l’<color=#10df8a>attraction</color> <sprite=28> est forte et positive à un endroit donné, plus les habitants sont susceptibles de venir construire leur maison ici. Pour orienter le développement de votre ville, veillez à créer des zones <color=#10df8a>attractives</color> <sprite=28>.
 L'attraction des emplacements est visible <b>depuis les filtres</b> ou à la <b>pose de bâtiments</b>.",
-CODEX_BUILD_ATTRACTION_INTRO,"All buildings produce positive or negative <color=#10df8a>attraction</color> <sprite=28>:
-<sprite=18> City centers
-<sprite=18> Ramparts
-<sprite=18> Production buildings
-<sprite=18> Cultural buildings
-<sprite=18> Local buildings
-<sprite=18> Service buildings
-<sprite=18> Wonders","Tous les bâtiments produisent de l'<color=#10df8a>attraction</color> <sprite=28> positive ou négative :
+CODEX_BUILD_ATTRACTION_INTRO,"Todos os edifícios produzem <color=#10df8a>atração</color> <sprite=28> positiva ou negativa: 
+<sprite=18> Centros urbanos 
+<sprite=18> Muralhas 
+<sprite=18> Edifícios de produção 
+<sprite=18> Edifícios culturais
+<sprite=18> Edifícios locais 
+<sprite=18> Edifícios de serviços
+<sprite=18> Maravilhas","Tous les bâtiments produisent de l'<color=#10df8a>attraction</color> <sprite=28> positive ou négative :
 <sprite=18> Les centres-villes
 <sprite=18> Les remparts
 <sprite=18> Les bâtiments de production
