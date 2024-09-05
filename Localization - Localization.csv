@@ -141,36 +141,36 @@ CODEX_BUILD_ATTRACTION_INTRO,"Todos os edifícios produzem <color=#10df8a>atraç
 <sprite=18> Les bâtiments de service
 <sprite=18> Les Merveilles",
 CODEX_BUILD_ATTRACTION_TITLE,The attraction,L'attraction,
-CODEX_BUILD_ATTRITION_ZONE_00,"The further a building is located in the attrition zone in relation to its generator, the more it will <b>inherit penalties</b> slowing down its development:
-<sprite=18> Decreased gain of <color=#4ba38a>satisfactions</color> <sprite=95>
-<sprite=18> Resource production penalty (<sprite=0>, <sprite=1>, <sprite=2>, <sprite=3>, <sprite=4>, <sprite=5>, <sprite=6>, <sprite=7>, <sprite=8>, <sprite=9>, <sprite=10>, <sprite=11>, <sprite=12>, <sprite=13>)
-<sprite=18> Penalty on construction, evolution and improvement time
-<sprite=18> Penalty on gaining <color=#10df8a>attraction</color> <sprite=28>","Plus un bâtiment se trouve loin dans la zone d’attrition par rapport à son générateur, plus il <b>héritera de malus</b> freinant son développement :
+CODEX_BUILD_ATTRITION_ZONE_00,"Quanto mais um edifício estiver localizado na zona de atrito em relação ao seu gerador, mais ele <b>herdará penalidades</b> que retardam seu desenvolvimento: 
+<sprite=18> Diminuição do ganho de <color=#4ba38a>satisfações</color> <sprite=95> 
+<sprite=18> Penalidade na produção de recursos (<sprite=0>, <sprite=1>, <sprite=2>, <sprite=3>, <sprite=4>, <sprite=5>, <sprite=6>, <sprite=7>, <sprite=8>, <sprite=9>, <sprite=10>, <sprite=11>, <sprite=12>, <sprite=13>) 
+<sprite=18> Penalidade no tempo de construção, evolução e melhoria 
+<sprite=18> Penalidade no ganho de <color=#10df8a>atração</color> <sprite=28>","Plus un bâtiment se trouve loin dans la zone d’attrition par rapport à son générateur, plus il <b>héritera de malus</b> freinant son développement :
 <sprite=18> Baisse du gain de <color=#4ba38a>satisfactions</color> <sprite=95>
 <sprite=18> Pénalité de production de ressources (<sprite=0>, <sprite=1>, <sprite=2>, <sprite=3>, <sprite=4>, <sprite=5>, <sprite=6>, <sprite=7>, <sprite=8>, <sprite=9>, <sprite=10>, <sprite=11>, <sprite=12>, <sprite=13>)
 <sprite=18> Pénalité sur le temps de construction, d'évolution et d'amélioration
 <sprite=18> Pénalité sur le gain d'<color=#10df8a>attraction</color> <sprite=28>",
-CODEX_BUILD_ATTRITION_ZONE_01,"There are certain elements which make it possible to <b>reduce these effects</b>, which can be:
-<sprite=18> A destiny
-<sprite=18> A <color=#03c2ec>know-how</color> <sprite=25>
-<sprite=18> A proximity building...","Il existe certains éléments qui permettent d'<b>amoindrir ces effets</b>, qui peuvent être :
+CODEX_BUILD_ATTRITION_ZONE_01,"Existem certos elementos que permitem <b>reduzir esses efeitos</b>, que podem ser: 
+<sprite=18> Um destino 
+<sprite=18> Um <color=#03c2ec>conhecimento</color> <sprite=25> 
+<sprite=18> Um edifício de proximidade...","Il existe certains éléments qui permettent d'<b>amoindrir ces effets</b>, qui peuvent être :
 <sprite=18> Une destinée
 <sprite=18> Un <color=#03c2ec>savoir-faire</color> <sprite=25>
 <sprite=18> Un bâtiment de proximité...",
-CODEX_BUILD_ATTRITION_ZONE_INTRO,"From the Middle Ages <sprite=31>, a new construction zone around the city called <b>attrition zone</b> appears. It is located <b>after the safety zone</b> and is tinted blue .
-All buildings providing a security zone provide an attrition zone:
-<sprite=18> City centers
-<sprite=18> Surveyors' cabin
-<sprite=18> Wonders","À partir du Moyen Âge <sprite=31>, une nouvelle zone de construction autour de la ville appelée <b>zone d’attrition</b> apparaît. Elle se situe <b>après la zone de sûreté</b> et est teintée de bleu.
+CODEX_BUILD_ATTRITION_ZONE_INTRO,"A partir da Idade Média <sprite=31>, uma nova zona de construção ao redor da cidade chamada <b>zona de atrito</b> aparece. Ela está localizada <b>após a zona de segurança</b> e é tingida de azul.
+Todos os edifícios que fornecem uma zona de segurança também fornecem uma zona de atrito:
+<sprite=18> Centros urbanos
+<sprite=18> Cabana dos agrimensores
+<sprite=18> Maravilhas","À partir du Moyen Âge <sprite=31>, une nouvelle zone de construction autour de la ville appelée <b>zone d’attrition</b> apparaît. Elle se situe <b>après la zone de sûreté</b> et est teintée de bleu.
 Tous les bâtiments fournissant une zone de sûreté fournissent une zone d'attrition :
 <sprite=18> Centres-villes
 <sprite=18> Cabanes d'arpenteurs
 <sprite=18> Merveilles",
-CODEX_BUILD_ATTRITION_ZONE_TITLE,The attrition zone,La zone d'attrition,
-CODEX_BUILD_MENU_00,"There are different environments that can hinder the development of the city. Some buildings even require certain specific environments to be built, for example on the waterfront.
-In the event that a building cannot be placed on the ground, the reasons will be explained to you each time.","Il existe différents environnements qui peuvent entraver le développement de la ville. Certains bâtiments exigent même certains environnements spécifiques pour être construits, par exemple au bord de l’eau.
+CODEX_BUILD_ATTRITION_ZONE_TITLE,A zona de atrito,La zone d'attrition,
+CODEX_BUILD_MENU_00,"Existem diferentes ambientes que podem dificultar o desenvolvimento da cidade. Alguns edifícios até exigem certos ambientes específicos para serem construídos, por exemplo, à beira-mar.
+No caso de um edifício não poder ser colocado no solo, os motivos serão explicados a você a cada vez.","Il existe différents environnements qui peuvent entraver le développement de la ville. Certains bâtiments exigent même certains environnements spécifiques pour être construits, par exemple au bord de l’eau.
 Dans le cas où un bâtiment ne pourra pas être placé au sol, les raisons vous seront explicitées à chaque fois.",
-CODEX_BUILD_MENU_INTRO,"The build menu is located at the <b>bottom center</b> of your screen. Click on the tab for the type of building you want to build, then on the map of the desired building. If you have enough resources, your mouse cursor will then transform into an outline of the building: <b>place the building on the ground, where you want it</b>.","Le menu de construction se trouve au <b>centre en bas</b> de votre écran. Cliquez sur l’onglet du type de bâtiment que vous souhaitez construire, puis sur la carte du bâtiment souhaité. Si vous avez assez de ressources, le curseur de votre souris se transforme alors en ébauche du bâtiment : <b>placez le bâtiment au sol, à l’endroit où vous le souhaitez</b>.",
+CODEX_BUILD_MENU_INTRO,"O menu de construção está localizado no <b>centro inferior</b> da sua tela. Clique na aba do tipo de edifício que você deseja construir e, em seguida, no mapa do edifício desejado. Se você tiver recursos suficientes, o cursor do seu mouse se transformará em um contorno do edifício: <b>coloque o edifício no solo, onde você desejar</b>.","Le menu de construction se trouve au <b>centre en bas</b> de votre écran. Cliquez sur l’onglet du type de bâtiment que vous souhaitez construire, puis sur la carte du bâtiment souhaité. Si vous avez assez de ressources, le curseur de votre souris se transforme alors en ébauche du bâtiment : <b>placez le bâtiment au sol, à l’endroit où vous le souhaitez</b>.",
 CODEX_BUILD_MENU_TITLE,The build menu,Le menu de construction,
 CODEX_BUILD_ROADS_00,It is thanks to the different roads layouts that the game positions the ramparts <sprite=85> or the axes.,C'est grâce aux différents tracés que le jeu positionne les remparts <sprite=85> ou des axes.,
 CODEX_BUILD_ROADS_HOUSES_00,"Homes may suffer <b>damage and demolition</b>, following specific incidents (<sprite=44>, <sprite=45>, <sprite=48>, <sprite=49>) or events. They cannot <b>be repaired manually</b>, but other <color=#ffffdf>citizens</color> <sprite=81> could rebuild them and live there if the place is <color=#10df8a>attractive</color> <sprite=28>.","Les habitations peuvent subir des <b>dégradations et des démolitions</b>, suite à des incidents (<sprite=44>, <sprite=45>, <sprite=48>, <sprite=49>) ou à des évènements spécifiques. Elles ne pourront <b>pas être réparées manuellement</b>, mais d'autres <color=#ffffdf>citoyens</color> <sprite=81> pourraient les reconstruire et y habiter si l'endroit est <color=#10df8a>attractif</color> <sprite=28>.",
