@@ -90,7 +90,7 @@ CODEX_AGE_CONSTRUCTION_INTRO,"Quando você passa de uma era para outra, suas dem
 CODEX_AGE_CONSTRUCTION_TITLE,Construção em progresso,Les constructions en cours,
 CODEX_AGE_CULTURALINFLUENCE_00,"Existem alguns bônus muito específicos:
 <sprite=18> Cada era desbloqueia um <b>passivo para a construção de Maravilhas</b> para facilitar sua construção: desbloqueio simplificado, construção mais rápida, etc...
-<sprite=18> Alguns níveis também concedem <color=#efd662>moedas de ouro</color> <sprite=80> ou planos de construção decorativos.","Il existe des bonus très spécifiques :
+<sprite=18> Alguns níveis também concedem <color=#efd662>moedas de ouro</color> <sprite=80> ou projetos de construção decorativos.","Il existe des bonus très spécifiques :
 <sprite=18> Chaque âge débloque un <b>passif pour la construction des Merveilles</b> afin de faciliter leur construction : déblocage simplifié, construction plus rapide, etc... 
 <sprite=18> Certains paliers donnent également des <color=#efd662>pièces d'or</color> <sprite=80> ou des plans de bâtiments décoratifs",
 CODEX_AGE_CULTURALINFLUENCE_01,"Aqui estão todas as ações que influenciam o Esplendor Cultural <sprite=86>:
@@ -250,12 +250,12 @@ CODEX_CATEGORY_BUILD_TITLE,Construção de edifícios,La construction de bâtime
 CODEX_CATEGORY_BUILDINGS_TYPE_TITLE,Tipos de edifícios,Les types de bâtiments,
 CODEX_CATEGORY_CULTURES_TITLE,As seis culturas,Les six cultures,
 CODEX_CATEGORY_DESTRUCTION_TITLE,Destruição de edifícios,La destruction des bâtiments,
-CODEX_CATEGORY_DISTRICT_TITLE,Vida dos distritos,La vie des quartiers,
+CODEX_CATEGORY_DISTRICT_TITLE,Vida nos distritos,La vie des quartiers,
 CODEX_CATEGORY_RESEARCH_TITLE,Pesquisa de edifícios,La recherche de bâtiments,
 CODEX_CATEGORY_RESOURCES_TITLE,Recursos,Les ressources,
 CODEX_CATEGORY_SCORE,Pontuação final,Score final,
 CODEX_CATEGORY_TUTORIAL,Tutorial,Tutoriel,
-CODEX_CULTURE_COMMERCIAL_00,"A cultura de <color=#ead93b>Comércio</color> <sprite=74> foca principalmente em rotas comerciais. Seu primeiro edifício de Serviço é o <color=#ead93b>Macellum</color> <sprite=23> durante a Antiguidade <sprite=30>.
+CODEX_CULTURE_COMMERCIAL_00,"A cultura <color=#ead93b>Comércio</color> <sprite=74> foca principalmente em rotas comerciais. Seu primeiro edifício de Serviço é o <color=#ead93b>Macellum</color> <sprite=23> durante a Antiguidade <sprite=30>.
 
 A <color=#4ba38a>satisfação primária</color> <sprite=95> afetada pelos edifícios culturais de <color=#ead93b>Comércio</color> <sprite=74> é a <color=#4ba38a>saúde</color> <sprite=90>.","La culture <color=#ead93b>Commerce</color> <sprite=74> se concentre principalement sur les routes commerciales. Son premier bâtiment de Service est le <color=#ead93b>Macellum</color> <sprite=23> durant l’Antiquité <sprite=30>.
 
@@ -307,93 +307,92 @@ No final da demolição <sprite=41>, o edifício é removido da sua cidade, libe
 En assignant plus de <color=#ffffdf>travailleurs</color> <sprite=82> à la démolition <sprite=41>, vous pourrez <b>diminuer le temps de démolition</b> <sprite=41> et <b>recycler</b> une partie des ressources investies dans la construction.
 
 Au terme de la démolition <sprite=41>, le bâtiment est retiré de votre ville, libérant de la place et <b>cessant son influence</b> sur les zones autour.",
-CODEX_DESTRUCTION_DEMOLITION_INTRO,"You can demolish <b>production and proximity buildings</b>, but note that this is an endeavor that costs time and resources.","Vous pouvez démolir les <b>bâtiments de production et de proximité</b>, mais notez qu’il s’agit là d’une entreprise qui coûte du temps et des ressources.",
-CODEX_DESTRUCTION_DEMOLITION_TITLE,The demolition,La démolition,
-CODEX_DESTRUCTION_EROSION_INTRO,"As you move from <b>one age to another</b>, <b>cultural buildings</b> erode and become damaged. When they are no longer intact, their effectiveness is reduced. If they are not <b>repaired</b>, they will eventually fall into <b>ruins</b>.","Lorsque vous passez d’<b>un âge à un autre</b>, les <b>bâtiments culturels</b> s’érodent et s’abîment. Lorsqu’ils ne sont plus intacts, leur efficacité est réduite. S’ils ne sont pas <b>réparés</b>, ils finiront par tomber en <b>ruines</b>.",
-CODEX_DESTRUCTION_EROSION_SUMMARY,"Cultural buildings can erode and become damaged due to riots or age changes, negating any benefits they provided and preventing their evolution. For each level of degradation, the <b>repair cost will increase</b>.","Les bâtiments culturels peuvent s'éroder et s’abîmer a cause d'émeutes ou de changement d'âge, annulant tous les avantages qu'ils apportaient et empêchant leur évolution. Pour chaque niveau de dégradation, le <b>coût de réparation augmentera</b>.",
-CODEX_DESTRUCTION_EROSION_TITLE,The erosion of time,L'érosion du temps,
-CODEX_DESTRUCTION_SIDE_00,The best way to prevent this from happening is to <b>prevent them by reducing the risks</b>,Le meilleur moyen d’éviter que cela arrive est de les <b>prévenir en diminuant les risques</b>. ,
-CODEX_DESTRUCTION_SIDE_INTRO,"Buildings may be destroyed or damaged following various causes beyond your control, such as fires <sprite=44> or riots <sprite=59>. The only buildings that may be impacted are the following:
-<sprite=18> Houses of <color=#ffffdf>citizens</color> <sprite=81>
-<sprite=18> Cultural buildings
+CODEX_DESTRUCTION_DEMOLITION_INTRO,"Você pode demolir <b>edifícios de produção e proximidade</b>, mas observe que isso é uma tarefa que custa tempo e recursos.","Vous pouvez démolir les <b>bâtiments de production et de proximité</b>, mais notez qu’il s’agit là d’une entreprise qui coûte du temps et des ressources.",
+CODEX_DESTRUCTION_DEMOLITION_TITLE,A demolição,La démolition,
+CODEX_DESTRUCTION_EROSION_INTRO,"À medida que você avança de <b>uma era para outra</b>, os <b>edifícios culturais</b> se desgastam e ficam danificados. Quando não estão mais intactos, sua eficácia é reduzida. Se não forem <b>reparados</b>, eventualmente cairão em <b>ruínas</b>.","Lorsque vous passez d’<b>un âge à un autre</b>, les <b>bâtiments culturels</b> s’érodent et s’abîment. Lorsqu’ils ne sont plus intacts, leur efficacité est réduite. S’ils ne sont pas <b>réparés</b>, ils finiront par tomber en <b>ruines</b>.",
+CODEX_DESTRUCTION_EROSION_SUMMARY,"Os edifícios culturais podem se desgastar e ser danificados devido a revoltas ou mudanças de era, anulando quaisquer benefícios que ofereciam e impedindo sua evolução. Para cada nível de degradação, o <b>custo de reparo aumentará</b>.","Les bâtiments culturels peuvent s'éroder et s’abîmer a cause d'émeutes ou de changement d'âge, annulant tous les avantages qu'ils apportaient et empêchant leur évolution. Pour chaque niveau de dégradation, le <b>coût de réparation augmentera</b>.",
+CODEX_DESTRUCTION_EROSION_TITLE,O tempo de desgaste,L'érosion du temps,
+CODEX_DESTRUCTION_SIDE_00,"A melhor maneira de evitar que isso aconteça é <b>prevenir, reduzindo os riscos</b>.",Le meilleur moyen d’éviter que cela arrive est de les <b>prévenir en diminuant les risques</b>. ,
+CODEX_DESTRUCTION_SIDE_INTRO,"Os edifícios podem ser destruídos ou danificados por várias causas fora de seu controle, como incêndios <sprite=44> ou tumultos <sprite=59>. Os únicos edifícios que podem ser impactados são os seguintes:
+<sprite=18> Casas de <color=#ffffdf>cidadãos</color> <sprite=81>
+<sprite=18> Edifícios culturais
 
-Houses will not require a repair cost. However, that of cultural buildings may vary depending on the average trust of <color=#e4cd9b>factions</color> <sprite=22> of the same culture.","Il se peut que des bâtiments soient détruits ou dégradés à la suite de différentes causes indépendantes de votre volonté comme des incendies <sprite=44> ou des émeutes <sprite=59>. Les seuls bâtiments pouvant être impactés sont les suivants :
+As casas não terão custo de reparo. No entanto, o custo de reparo dos edifícios culturais pode variar dependendo da confiança média das <color=#e4cd9b>facções</color> <sprite=22> da mesma cultura.","Il se peut que des bâtiments soient détruits ou dégradés à la suite de différentes causes indépendantes de votre volonté comme des incendies <sprite=44> ou des émeutes <sprite=59>. Les seuls bâtiments pouvant être impactés sont les suivants :
 <sprite=18> Habitations de <color=#ffffdf>citoyens</color> <sprite=81>
 <sprite=18> Bâtiments culturels
 
 Les habitations ne nécessiteront pas de coût de réparation. Cependant, celui des bâtiments culturels peut varier en fonction de la moyenne de confiance des <color=#e4cd9b>factions</color> <sprite=22> de la même culture.",
-CODEX_DESTRUCTION_SIDE_TITLE,The unexpected destruction,La destruction inopinée,
-CODEX_DISTRICT_DISTRICT_00,"Districts can acquire a <b>culture dependent on the influence</b> produced by surrounding cultural buildings, service buildings and Wonders. Whenever the dominant majority cultural influence changes, the culture of the neighborhood also changes .
+CODEX_DESTRUCTION_SIDE_TITLE,"A destruição inesperada",La destruction inopinée,
+CODEX_DISTRICT_DISTRICT_00,"Os distritos podem adquirir uma <b>cultura dependente da influência</b> produzida pelos edifícios culturais, edifícios de serviço e Maravilhas ao redor. Sempre que a influência cultural dominante mudar, a cultura do bairro também muda.
 
-The more populated the districts, the higher the risk of <b>incidents</b>: fires <sprite=44>, epidemics <sprite=45>, assaults <sprite=48>, thefts <sprite=49>...","Les quartiers peuvent acquérir une <b>culture dépendant de l’influence</b> produite par les bâtiments culturels, les bâtiments de service et les Merveilles environnants. À chaque fois que l’influence culturelle majoritaire dominante change, la culture du quartier change également.
+Quanto mais populados os distritos, maior o risco de <b>incidentes</b>: incêndios <sprite=44>, epidemias <sprite=45>, assaltos <sprite=48>, furtos <sprite=49>...","Les quartiers peuvent acquérir une <b>culture dépendant de l’influence</b> produite par les bâtiments culturels, les bâtiments de service et les Merveilles environnants. À chaque fois que l’influence culturelle majoritaire dominante change, la culture du quartier change également.
 
 Plus les quartiers sont <b>peuplés</b>, plus les risques d’<b>incidents</b> sont élevés : incendies <sprite=44>, épidémies <sprite=45>, agressions <sprite=48>, vols <sprite=49>…",
-CODEX_DISTRICT_DISTRICT_INTRO,Districts automatically form <b>around the buildings</b> you build and homes are located in those where there is <color=#10df8a>attraction</color> <sprite=28>.,Les quartiers se forment automatiquement <b>autour des bâtiments</b> que vous construisez et les habitations s’implantent dans ceux où il y a de l’<color=#10df8a>attraction</color> <sprite=28>.,
-CODEX_DISTRICT_DISTRICT_TITLE,The districts,Les quartiers,
-CODEX_DISTRICT_FACTIONS_0.3,"<color=#e4cd9b>Factions</color> <sprite=22>  trust can vary depending on:
-<sprite=18> The proposal of <color=#ce7bba>decrees</color> <sprite=21>
-<sprite=18> The construction of their favourite or hated buildings
-<sprite=18> The level of Cultural Influence <sprite=21>
-<sprite=18> Certain event choices
-<sprite=18> Friction with another adjacent faction
-<sprite=18> Taxation...","La confiance des <color=#e4cd9b>factions</color> <sprite=22> peut varier en fonction de :
+CODEX_DISTRICT_DISTRICT_INTRO,"Os distritos se formam automaticamente <b>ao redor dos edifícios</b> que você constrói, e as casas estão localizadas naqueles onde há <color=#10df8a>atração</color> <sprite=28>.",Les quartiers se forment automatiquement <b>autour des bâtiments</b> que vous construisez et les habitations s’implantent dans ceux où il y a de l’<color=#10df8a>attraction</color> <sprite=28>.,
+CODEX_DISTRICT_DISTRICT_TITLE,Os distritos,Les quartiers,
+CODEX_DISTRICT_FACTIONS_0.3,"A confiança das <color=#e4cd9b>Facções</color> <sprite=22> pode variar dependendo de:
+<sprite=18> A proposta de <color=#ce7bba>decretos</color> <sprite=21>
+<sprite=18> A construção de seus edifícios preferidos ou odiados
+<sprite=18> O nível da Influência Cultural <sprite=21>
+<sprite=18> Certas escolhas de eventos
+<sprite=18> Atritos com outra facção adjacente
+<sprite=18> Tributação...","La confiance des <color=#e4cd9b>factions</color> <sprite=22> peut varier en fonction de :
 <sprite=18> La proposition des <color=#ce7bba>décrets</color> <sprite=21>
 <sprite=18> La construction de leurs bâtiments préférés ou détestés
 <sprite=18> Le niveau de l'Influence Culturelle <sprite=86>
 <sprite=18> Certains choix d'évènements
 <sprite=18> Tension avec une autre faction adjacente
 <sprite=18> La taxation...",
-CODEX_DISTRICT_FACTIONS_0.5,"The <color=#e4cd9b>factions</color> <sprite=22>  trust in your actions changes certain parameters:
-<sprite=18> Their probability of support <color=#ce7bba>decrees</color> <sprite=21>
-<sprite=18> The sale and purchase prices of <color=#ead93b>trade route</color> <sprite=23>  depend on the <b>average trust</b> of factions of <b>the same culture</b>
-<sprite=18> The cost of repairing cultural buildings is influenced by the <b>average trust</b> of factions <b>the same culture</b>","La confiance des <color=#e4cd9b>factions</color> <sprite=22> en vos actions modifie certains paramètres :
+CODEX_DISTRICT_FACTIONS_0.5,"A confiança das <color=#e4cd9b>facções</color> <sprite=22> em suas ações altera certos parâmetros:
+<sprite=18> A probabilidade de apoio aos <color=#ce7bba>decretos</color> <sprite=21>
+<sprite=18> Os preços de venda e compra das <color=#ead93b>rotas comerciais</color> <sprite=23> dependem da <b>confiança média</b> das facções de <b>mesma cultura</b>
+<sprite=18> O custo de reparo dos edifícios culturais é influenciado pela <b>confiança média</b> das facções de <b>mesma cultura</b>","La confiance des <color=#e4cd9b>factions</color> <sprite=22> en vos actions modifie certains paramètres :
 <sprite=18> Leur probabilité de soutien lors du passage des <color=#ce7bba>décrets</color> <sprite=21>
 <sprite=18> Les prix de ventes et d'achat des <color=#ead93b>routes commerciales</color> <sprite=23> dépendent de la <b>moyenne de la confiance</b> des factions de la <b>même culture</b>
 <sprite=18> Le coût de réparation des bâtiments culturels est influencé par la <b>moyenne de la confiance</b> des factions de la <b>même culture</b>",
-CODEX_DISTRICT_FACTIONS_00,"They have a <b>trust level</b> towards you. When it is high, <b>positive events</b> can be triggered in the city, but when it is <b>too low</b> the <color=#ffffdf>faction</color> <sprite=22> can <b>secession and block access to the district</b>.
+CODEX_DISTRICT_FACTIONS_00,"Eles têm um <b>nível de confiança</b> em relação a você. Quando está alto, <b>eventos positivos</b> podem ser desencadeados na cidade, mas quando está <b>muito baixo</b>, a <color=#ffffdf>facção</color> <sprite=22> pode <b>separar-se e bloquear o acesso ao distrito</b>.
 
-If <b>a quarter of the districts</b> in your city are blocked by <color=#ffffdf>factions</color> <sprite=22>, there is a <b>coup d'état</b> and your family is deposed: it's the end of the game.","Elles ont un <b>niveau de confiance</b> à votre égard. Lorsqu’il est élevé, des <b>événements positifs</b> peuvent se déclencher dans la ville, mais lorsqu’il est <b>trop bas</b> la <color=#ffffdf>faction</color> <sprite=22> peut faire <b>sécession et bloquer l’accès au quartier</b>.
+Se <b>um quarto dos distritos</b> em sua cidade forem bloqueados por <color=#ffffdf>facções</color> <sprite=22>, ocorre um <b>golpe de estado</b> e sua família é deposta: é o fim do jogo.","Elles ont un <b>niveau de confiance</b> à votre égard. Lorsqu’il est élevé, des <b>événements positifs</b> peuvent se déclencher dans la ville, mais lorsqu’il est <b>trop bas</b> la <color=#ffffdf>faction</color> <sprite=22> peut faire <b>sécession et bloquer l’accès au quartier</b>.
 
 Si <b>un quart des quartiers</b> de votre ville est bloqué par les <color=#ffffdf>factions</color> <sprite=22>, il y a <b>coup d’état</b> et votre famille est destituée : c’est la fin de la partie.",
-CODEX_DISTRICT_FACTIONS_01,"In return, <color=#ffffdf>factions</color> <sprite=22> generate <b>culture points</b> (<sprite=70>, <sprite=71>, <sprite=72> , <sprite=73>, <sprite=74>, <sprite=75>) and can be <b>taxed</b> to bring you <color=#efd662>gold</color> <sprite=80>. The level of taxes impacts the trust they have in you.","En contrepartie, les <color=#ffffdf>factions</color> <sprite=22> génèrent des <b>points de culture</b> (<sprite=70>, <sprite=71>, <sprite=72>, <sprite=73>, <sprite=74>, <sprite=75>) et peuvent être <b>taxées</b> pour vous apporter des <color=#efd662>pièces d'or</color> <sprite=80>. Le niveau de taxes impacte la confiance qu’elles vous portent.",
-CODEX_DISTRICT_FACTIONS_INTRO,<color=#ffffdf>Factions</color> <sprite=22> settle in districts of <b>identical culture</b>. They have special requirements and can come into <b><color=#B7644C>tension</color> <sprite=46></b> with adjacent <color=#ffffdf>factions</color> <sprite=22> belonging to other cultures.,Les <color=#ffffdf>factions</color> <sprite=22> s’installent dans des quartiers de <b>culture identique</b>. Elles ont des exigences particulières et peuvent entrer en <b><color=#B7644C>tension</color> <sprite=46></b> avec des <color=#ffffdf>factions</color> <sprite=22> adjacentes appartenant à d’autres cultures.,
-CODEX_DISTRICT_FACTIONS_TITLE,The factions,Les factions,
-CODEX_DISTRICT_TENSIONS_00,"Their effects are mostly negative and are applied for every duo of <color=#e4cd9b>factions</color> <sprite=22> in <color=#B7644C>tension</color> <sprite=46>:
-<sprite=18> Increases the probability of expanding negative rallyes that come from a <color=#e4cd9b>faction</color> <sprite=22> in <color=#B7644C>tension</color> <sprite=46>.
-<sprite=18> Decreases the likelihood of expanding positive rallyes that come from a <color=#e4cd9b>faction</color> <sprite=22> in <color=#B7644C>tension</color> <sprite=46>
-<sprite=18> Adds a risk for the occurrence of <color=#B7644C>incidents</color> (<sprite=44>, <sprite=45>, <sprite=48>, <sprite=49>) in the affected neighbourhoods
-<sprite=18> Reduces the trust of <color=#e4cd9b>factions</color> <sprite=22> in <color=#B7644C>tension</color> <sprite=46> every cycles <sprite=42>
-<sprite=18> Increases Cultural Influence <sprite=86> every cycles <sprite=42>","Leurs effets sont majoritairement négatifs et sont appliqués pour chaque duo de <color=#e4cd9b>factions</color> <sprite=22> en <color=#B7644C>tension</color> <sprite=46> :
+CODEX_DISTRICT_FACTIONS_01,"Em troca, <color=#ffffdf>facções</color> <sprite=22> geram <b>pontos de cultura</b> (<sprite=70>, <sprite=71>, <sprite=72>, <sprite=73>, <sprite=74>, <sprite=75>) e podem ser <b>taxadas</b> para trazer-lhe <color=#efd662>ouro</color> <sprite=80>. O nível de impostos afeta a confiança que elas têm em você.","En contrepartie, les <color=#ffffdf>factions</color> <sprite=22> génèrent des <b>points de culture</b> (<sprite=70>, <sprite=71>, <sprite=72>, <sprite=73>, <sprite=74>, <sprite=75>) et peuvent être <b>taxées</b> pour vous apporter des <color=#efd662>pièces d'or</color> <sprite=80>. Le niveau de taxes impacte la confiance qu’elles vous portent.",
+CODEX_DISTRICT_FACTIONS_INTRO,<color=#ffffdf>Facções</color> <sprite=22> se estabelecem em bairros de <b>cultura idêntica</b>. Elas têm requisitos especiais e podem entrar em <b><color=#B7644C>tensão</color> <sprite=46></b> com <color=#ffffdf>facções</color> <sprite=22> adjacentes pertencentes a outras culturas.,Les <color=#ffffdf>factions</color> <sprite=22> s’installent dans des quartiers de <b>culture identique</b>. Elles ont des exigences particulières et peuvent entrer en <b><color=#B7644C>tension</color> <sprite=46></b> avec des <color=#ffffdf>factions</color> <sprite=22> adjacentes appartenant à d’autres cultures.,
+CODEX_DISTRICT_FACTIONS_TITLE,As facções,Les factions,
+CODEX_DISTRICT_TENSIONS_00,"Seus efeitos são majoritariamente negativos e são aplicados a cada par de <color=#e4cd9b>facções</color> <sprite=22> em <color=#B7644C>tensão</color> <sprite=46>:
+<sprite=18> Aumenta a probabilidade de expansão de eventos negativos que vêm de uma <color=#e4cd9b>facção</color> <sprite=22> em <color=#B7644C>tensão</color> <sprite=46>.
+<sprite=18> Diminui a probabilidade de expansão de eventos positivos que vêm de uma <color=#e4cd9b>facção</color> <sprite=22> em <color=#B7644C>tensão</color> <sprite=46>.
+<sprite=18> Adiciona um risco para a ocorrência de <color=#B7644C>incidentes</color> (<sprite=44>, <sprite=45>, <sprite=48>, <sprite=49>) nos bairros afetados.
+<sprite=18> Reduz a confiança das <color=#e4cd9b>facções</color> <sprite=22> em <color=#B7644C>tensão</color> <sprite=46> a cada ciclo <sprite=42>.
+<sprite=18> Aumenta a Influência Cultural <sprite=86> a cada ciclo <sprite=42>.","Leurs effets sont majoritairement négatifs et sont appliqués pour chaque duo de <color=#e4cd9b>factions</color> <sprite=22> en <color=#B7644C>tension</color> <sprite=46> :
 <sprite=18> Augmente la probabilité d'étendre les rassemblements négatifs qui proviennent d'une <color=#e4cd9b>faction</color> <sprite=22> en <color=#B7644C>tension</color> <sprite=46>
 <sprite=18> Baisse la probabilité d'étendre les rassemblements positifs qui proviennent d'une <color=#e4cd9b>faction</color> <sprite=22> en <color=#B7644C>tension</color> <sprite=46>
 <sprite=18> Ajoute un risque pour l'apparition d'<color=#B7644C>incidents</color> (<sprite=44>, <sprite=45>, <sprite=48>, <sprite=49>) dans les quartiers concernés
 <sprite=18> Réduit la confiance des <color=#e4cd9b>factions</color> <sprite=22> en <color=#B7644C>tension</color> <sprite=46> tous les cycles <sprite=42>
 <sprite=> Augmente l'Influence Culturelle <sprite=86> tous les cycles <sprite=42>",
-CODEX_DISTRICT_TENSIONS_01,"There are several ways to resolve them temporarily:
-<sprite=18> Passing a <color=#ce7bba>decree</color> <sprite=21> with the corresponding effect of the corresponding culture.
+CODEX_DISTRICT_TENSIONS_01,"Existem várias maneiras de resolvê-las temporariamente:
+<sprite=18> Passar um <color=#ce7bba>decreto</color> <sprite=21> com o efeito correspondente da cultura em questão.
 
-But also methods for resolving them definitively:
-<sprite=18> Expelling one of the two <color=#e4cd9b>factions</color> <sprite=22> in conflict will automatically resolve the <color=#B7644C>tension</color> <sprite=46>, even if the <color=#e4cd9b>faction</color> <sprite=22> expelled returns to settle in town
-<sprite=18> Building a Renaissance <sprite=32> Wonder, the Palazzo Ducale <sprite=32> will protect your <color=#e4cd9b>factions</color> <sprite=22> from <color=#B7644C>tensions</color> <sprite=46> in a perimeter around it.","Il existe plusieurs façons de les résoudre temporairement :
+Mas também métodos para resolvê-las definitivamente:
+<sprite=18> Expelir uma das duas <color=#e4cd9b>facções</color> <sprite=22> em conflito resolverá automaticamente a <color=#B7644C>tensão</color> <sprite=46>, mesmo que a <color=#e4cd9b>facção</color> <sprite=22> expulsa retorne para se estabelecer na cidade.
+<sprite=18> Construir uma Maravilha do Renascimento <sprite=32>, o Palazzo Ducale <sprite=32>, protegerá suas <color=#e4cd9b>facções</color> <sprite=22> de <color=#B7644C>tensões</color> <sprite=46> em um perímetro ao seu redor.","Il existe plusieurs façons de les résoudre temporairement :
 <sprite=18> Voter un <color=#ce7bba>décret</color> <sprite=21> avec l'effet correspondant de la culture correspondante
 
 Mais aussi des méthodes pour les résoudre de manière définitive :
 <sprite=18> Expulser l'une des deux <color=#e4cd9b>factions</color> <sprite=22> en conflit résoudra automatiquement la <color=#B7644C>tension</color> <sprite=46>, même si la <color=#e4cd9b>faction</color> <sprite=22> expulsée revient s'installer en ville
 <sprite=18> Construire la Merveille Palazzo Ducale de la Renaissance <sprite=32> protègera vos <color=#e4cd9b>factions</color> <sprite=22> des <color=#B7644C>tensions</color> <sprite=46> dans un périmètre autour d'elle.",
-CODEX_DISTRICT_TENSIONS_INTRO,"<color=#B7644C>Tensions</color> <sprite=46> can arise in the city when <color=#e4cd9b>factions</color> <sprite=22> from different cultures reside nearby. One of the easiest ways to prevent your <color=#e4cd9b>factions</color> <sprite=22> from coming into tension is to keep your different cultural districts well separated, to minimize the chance of creating <color=#B7644C>tensions</color> <sprite=46> between different cultures.","Les <color=#B7644C>tensions</color> <sprite=46> peuvent survenir en ville lorsque des <color=#e4cd9b>factions</color> <sprite=22> de cultures différentes résident à proximité. L'une des méthodes les plus simples pour éviter à vos <color=#e4cd9b>factions</color> <sprite=22> de rentrer en tension est de bien séparer vos différents quartiers culturels, afin de minimiser les possibilités de créer des <color=#B7644C>tensions</color> <sprite=46> entre les différentes cultures.",
-CODEX_DISTRICT_TENSIONS_TITLE,The tensions,Les tensions,
-CODEX_GAMEPLAY_SERVICE,Using service buildings,Utiliser les bâtiments de service,
+CODEX_DISTRICT_TENSIONS_INTRO,"<color=#B7644C>Tensões</color> <sprite=46> podem surgir na cidade quando <color=#e4cd9b>facções</color> <sprite=22> de culturas diferentes residem nas proximidades. Uma das maneiras mais fáceis de evitar que suas <color=#e4cd9b>facções</color> <sprite=22> entrem em tensão é manter seus diferentes distritos culturais bem separados, para minimizar a chance de criar <color=#B7644C>tensões</color> <sprite=46> entre diferentes culturas.","Les <color=#B7644C>tensions</color> <sprite=46> peuvent survenir en ville lorsque des <color=#e4cd9b>factions</color> <sprite=22> de cultures différentes résident à proximité. L'une des méthodes les plus simples pour éviter à vos <color=#e4cd9b>factions</color> <sprite=22> de rentrer en tension est de bien séparer vos différents quartiers culturels, afin de minimiser les possibilités de créer des <color=#B7644C>tensions</color> <sprite=46> entre les différentes cultures.",
+CODEX_DISTRICT_TENSIONS_TITLE,As tensões,Les tensions,
+CODEX_GAMEPLAY_SERVICE,Utilização dos edifícios de serviço,Utiliser les bâtiments de service,
 CODEX_GAMEPLAY_SERVICE_TITLE,placeholder,placeholder,
-CODEX_GAMEPLAY_SERVICE_SENATUS_TITLE,Ancient politics,La politique antique,
-CODEX_GAMEPLAY_SERVICE_SENATUS_INTRO,"The <color=#ce7bba>Senatus</color> is the centre of ancient political life. It allows a <color=#ce7bba>decree</color> <sprite=21> to be proposed to the various Senators, in order to positively influence the city over a certain number of cycles <sprite=42>, in return for money.","Le <color=#ce7bba>Senatus</color> est le centre de la vie politique antique. Il permet de proposer un <color=#ce7bba>décret</color> <sprite=21> aux différents Sénateurs, afin d'influencer positivement la ville durant un certain nombre de cycles <sprite=42>, contre de l'argent.",
-CODEX_GAMEPLAY_SERVICE_SENATUS_00,"The <color=#ce7bba>decrees</color> <sprite=21> have very diverse effects and are sorted by culture:
-<sprite=18> Increased <color=#4ba38a>satisfaction</color> <sprite=95>
-<sprite=18> Speed of tree cutting
-<sprite=18> Suspension of <color=#B7644C>tensions</color> <sprite=46>
-<sprite=18> Increase in the selling prices of goods....
+CODEX_GAMEPLAY_SERVICE_SENATUS_TITLE,Política antiga,La politique antique,
+CODEX_GAMEPLAY_SERVICE_SENATUS_INTRO,"O <color=#ce7bba>Senatus</color> é o centro da vida política antiga. Ele permite que um <color=#ce7bba>decreto</color> <sprite=21> seja proposto aos diversos Senadores, com o objetivo de influenciar positivamente a cidade por um determinado número de ciclos <sprite=42>, em troca de dinheiro.","Le <color=#ce7bba>Senatus</color> est le centre de la vie politique antique. Il permet de proposer un <color=#ce7bba>décret</color> <sprite=21> aux différents Sénateurs, afin d'influencer positivement la ville durant un certain nombre de cycles <sprite=42>, contre de l'argent.",
+CODEX_GAMEPLAY_SERVICE_SENATUS_00,"Os <color=#ce7bba>decretos</color> <sprite=21> têm efeitos muito diversos e são classificados por cultura:
+<sprite=18> Aumento da <color=#4ba38a>satisfação</color> <sprite=95>
+<sprite=18> Velocidade de corte de árvores
+<sprite=18> Suspensão de <color=#B7644C>tensões</color> <sprite=46>
+<sprite=18> Aumento nos preços de venda de mercadorias....
 
-They all have a cost in <color=#efd662>gold coins</color> <sprite=80> to be paid when they are accepted. By default, there is only one <color=#ce7bba>decree</color> <sprite=21> applicable at a time, and this has a rest time after the end of its effect. It is possible to override this number limitation with Destinies.
-Once all the parameters have been adjusted and the <color=#ce7bba>decree</color> <sprite=21> is put to the vote, the Senators will vote for its application or rejection.","Les <color=#ce7bba>décrets</color> <sprite=21> ont des effets très diversifiés et sont triés par cultures :
+Todos têm um custo em <color=#efd662>moedas de ouro</color> <sprite=80> a ser pago quando forem aceitos. Por padrão, apenas um <color=#ce7bba>decreto</color> <sprite=21> pode estar em vigor de cada vez, e ele possui um tempo de espera após o fim de seu efeito. É possível superar essa limitação de número com Destinos. Uma vez ajustados todos os parâmetros e o <color=#ce7bba>decreto</color> <sprite=21> colocado em votação, os Senadores votarão para sua aplicação ou rejeição.","Les <color=#ce7bba>décrets</color> <sprite=21> ont des effets très diversifiés et sont triés par cultures :
 <sprite=18> Augmentation des <color=#4ba38a>satisfactions</color> <sprite=95>
 <sprite=18> Rapidité de coupe des arbres
 <sprite=18> Suspension des <color=#B7644C>tensions</color> <sprite=46>
@@ -496,7 +495,7 @@ La confiance des autorités politiques <sprite=87> peut varier en fonction :
 <sprite=18> Des <color=#ce7bba>décrets</color> <sprite=21> proposés, acceptés automatiquement
 <sprite=18> Des bâtiments construits
 <sprite=18> Des <color=#e4cd9b>factions</color> <sprite=22> acceptées dans la ville",
-CODEX_HARVEST_RESOURCE_TITLE,Resources,Les ressources,
+CODEX_HARVEST_RESOURCE_TITLE,Recursos,Les ressources,
 CODEX_HAVEST_RESOURCES,Harvesting resources and reserves,Récolter les ressources et réserve,
 CODEX_POPULATION_INCIDENTS_00,"Each district has a <b>level of risk</b>: when an incident is triggered (<sprite=44>, <sprite=45>, <sprite=48>, <sprite=49>), it will do so in the neighborhoods with the highest risk levels. Several factors influence this level of risk:
 <sprite=18> The occupancy rate of a district
@@ -895,7 +894,7 @@ CODEX_TUTORIAL_WATCHTOWER_00,"Surveyors' Huts are a very special proxiity buildi
 <sprite=18> They have a limited number of copies, but which can be improved by increasing the level of the town centres or changing age","Les Cabanes d'arpenteurs sont un bâtiment de proximité très particulier :
 <sprite=18> Elles ne sont constructibles qu'à <b>l'extérieur de la surface de construction</b> de la cité
 <sprite=18> Elles ont un nombre d'<b>exemplaires restreint</b>, mais qui peut être amélioré en augmentant le niveau des centres-villes ou en changeant d'âge",
-CODEX_WINDOW_TITLE,In-game help,Aides en jeu,
+CODEX_WINDOW_TITLE,Ajuda no jogo,Aides en jeu,
 CR_ANT_BESSES,Aquincum was a military post in Roman Pannonia. Citizens used the Danube to import and export goods.,Aquincum est un poste militaire de la Pannonie romaine. Le Danube sert aux citoyens à importer et à exporter des marchandises.,
 CR_ANT_BESSES_TITLE,Aquincum,Aquincum,
 CR_ANT_BURDIGALA,"Burdigala is located to the east of Gallia. Built on the banks of the Garonne River, it provides citizens with basic necessities.","Burdigala est située à l'est de Gallia. Construite sur les rives de la Garonne, les citoyens y reçoivent des produits de première nécessité.",
